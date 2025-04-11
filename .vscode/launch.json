@@ -1,0 +1,80 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CMSIS Dbg: J-LINK",
+            "type": "gdbtarget",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "${command:cmsis-csolution.getBinaryFile}",
+            "gdb": "arm-none-eabi-gdb",
+            "initCommands": [
+                "load",
+                //"monitor speed 15000",
+                "break main"
+            ],
+            "target": {
+                "server": "JLinkGDBServer",
+                "serverParameters": [
+                    "-device",
+                    "${command:cmsis-csolution.getDeviceName}_${command:cmsis-csolution.getProcessorName}",
+                    "-JLinkDevicesXmlPath",
+                    ".alif/JLinkDevices.xml",
+                    "-endian",
+                    "little",
+                    "-if",
+                    "SWD",
+                    "-speed",
+                    "auto",
+                    "-noir",
+                    "-vd",
+                    "-nogui",
+                    "-localhostonly"
+                ],
+                "port": "3333",
+                //"postLaunchCommands": [
+                //    "set $sp = __Vectors[0]",
+                //    "set $pc = __Vectors[1]",
+                //    "set *0xe000ed08 = __Vectors"
+                //]
+            }
+            
+        },
+        {
+            "name": "MS C++ Linux Dbg",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/linux_app/out/debug_test",
+            "miDebuggerPath": "/opt/homebrew/bin/gdb",
+            "miDebuggerServerAddress": "aarch64linux.local:1234",
+            "setupCommands": [
+              {
+                "description": "Enable pretty-printing for gdb",
+                "text": "-enable-pretty-printing",
+                "ignoreFailures": true
+              }
+            ],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+          },
+
+          {
+            "name": "Eclipse Linux Dbg",
+            "type": "gdbtarget",
+            "request": "attach",
+            "program": "${workspaceFolder}/linux_app/out/debug_test",
+            "gdb": "/opt/homebrew/bin/gdb",
+            "target": {
+                "host": "aarch64linux.local",
+                "port": "1234",
+            },
+            "cwd": "${workspaceFolder}",
+            "environment": []
+          }
+
+
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.h": "c",
+    },
+
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/mather01/Documents/alif_vscode-template/out/blinky/HE/debug"
+    ],
+    "cmake.sourceDirectory": "/Users/mather01/Documents/alif_vscode-template/tmp",
+    "cmsis-csolution.actions": [
+        {
+            "path": "alif.csolution.yml",
+            "target": "HE",
+            "config": {
+                "debug": "CMSIS Debugger: J-LINK"
+            }
+        }
+    ],
+}
