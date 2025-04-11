@@ -1,0 +1,9 @@
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/database.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/blinky.debug+HE.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/Group_App.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/Group_Board.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/AlifSemiconductor_Device_SOC_Peripherals_GPIO_1_3_0.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/AlifSemiconductor_Device_SOC_Peripherals_PINCONF_1_3_0.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/AlifSemiconductor_Device_Startup_C_Startup_1_3_0.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/edit_cache.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-complete.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-build.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-configure.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-download.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-executes.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-install.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-patch.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-test.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"blinky.debug+HE"
+		],
+		"name" : "blinky.debug+HE"
+	}
+}

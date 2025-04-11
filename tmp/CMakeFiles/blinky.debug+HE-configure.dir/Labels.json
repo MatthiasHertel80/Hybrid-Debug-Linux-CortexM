@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-configure"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-configure.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-configure.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-patch.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-update.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-download.rule"
+		},
+		{
+			"file" : "/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"blinky.debug+HE"
+		],
+		"name" : "blinky.debug+HE-configure"
+	}
+}

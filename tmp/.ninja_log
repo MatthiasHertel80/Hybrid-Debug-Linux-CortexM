@@ -1,0 +1,15 @@
+# ninja log v6
+58	73	1744353627758417481	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-patch	a6ac4c153ae5158e
+58	73	1744353627758417481	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-patch	a6ac4c153ae5158e
+41	58	1744353627742761118	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-update	878d5196e6a994cc
+41	58	1744353627742761118	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-update	878d5196e6a994cc
+570	607	1744353628255866866	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database	83eb278193ed6d2f
+73	570	1744353628255299700	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-configure	c49556ccd1e2ab83
+4	21	1744353627706123145	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-mkdir	3fd6e415cc6cf40c
+23	41	1744353627726516671	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-download	e73ebb1b2c9b269a
+73	570	1744353628255299700	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-configure	c49556ccd1e2ab83
+570	607	1744353628255866866	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database	83eb278193ed6d2f
+4	21	1744353627706123145	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-mkdir	3fd6e415cc6cf40c
+23	41	1744353627726516671	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-download	e73ebb1b2c9b269a
+5	58	1744361240708770514	blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database	83eb278193ed6d2f
+5	58	1744361240708770514	/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database	83eb278193ed6d2f

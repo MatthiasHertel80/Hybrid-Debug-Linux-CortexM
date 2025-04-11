@@ -1,0 +1,16 @@
+# Target labels
+ blinky.debug+HE
+# Source files and their labels
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-complete.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-build.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-configure.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-database.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-download.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-executes.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-install.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-mkdir.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-patch.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-test.rule
+/Users/mather01/Documents/alif_vscode-template/tmp/blinky.debug+HE/src/blinky.debug+HE-stamp/blinky.debug+HE-update.rule

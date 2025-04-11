@@ -1,0 +1,8 @@
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/database.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-build.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-configure.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-executes.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/blinky.debug+HE-database.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/edit_cache.dir
+/Users/mather01/Documents/alif_vscode-template/tmp/CMakeFiles/rebuild_cache.dir
